@@ -1,0 +1,1 @@
+This repository only holds the app files that Milk Suite phones download when they update. Nothing else is kept here.
